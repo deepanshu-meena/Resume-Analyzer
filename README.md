@@ -30,4 +30,4 @@ It supports parallel processing for faster results and is highly customizable vi
 --Supports .pdf, .doc, .docx files
 
 -->Author
--->Avinish Kumar
+-->Deepanshu Meena
