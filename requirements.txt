@@ -10,4 +10,3 @@ pillow
 pafy
 yt-dlp
 plotly
-
